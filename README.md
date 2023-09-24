@@ -1,4 +1,4 @@
-# 🦧 Johnny McKenzie's NeoVim Config
+# 🦧 My Personal NeoVim Config
 
 Requires [LazyVim](https://www.lazyvim.org/)
 
