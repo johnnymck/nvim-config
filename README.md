@@ -1,4 +1,5 @@
-# 💤 LazyVim
+# 🦧 Johnny McKenzie's NeoVim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Requires [LazyVim](https://www.lazyvim.org/)
+
+Feel free to copy my files of course, I won't mind ✨
